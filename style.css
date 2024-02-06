@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header,.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.left > .title {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.left > .text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.left > .button {
+    background-color: #3882f6;
+    color: inherit;
+}
+
+.info {
+    color: #1f2937;
+}
+
+.info > .title {
+    font-size: 36px;
+    font-size: bolder;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote > .text {
+    font-size: 36px;
+    font-style: italic;
+}
