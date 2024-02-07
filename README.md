@@ -1,2 +1,3 @@
 # landing-template
-Landing page for The Odin Project
+Landing page template. 
+A project for The Odin Project.
